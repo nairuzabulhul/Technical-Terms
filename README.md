@@ -3,7 +3,7 @@
 
 This repository for Web Engineering Terminology:
 
->> I am goign to include all the basic terms that I come across everyday in Software Engineering field
+>> I am going to include all the basic terms that I have come across everyday in Software Engineering field
 
 >> Chek the wiki for the terms list 
 
