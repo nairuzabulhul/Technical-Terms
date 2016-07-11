@@ -5,7 +5,7 @@ This repository for Web Engineering Terminology:
 
 >> I am going to include all the basic terms that I have come across everyday in Software Engineering field
 
->> Link to the terms: <a href="https://github.com/nairuzabulhul/Web-terminology/wiki> WIKI</a>  
+>> Wiki Terms: https://github.com/nairuzabulhul/Web-terminology/wiki 
 
 
 
