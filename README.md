@@ -1,4 +1,4 @@
-# Web-terminology
+# Webnology
 
 
 This repository for Web Engineering Terminology:
