@@ -1,13 +1,20 @@
+
+
+![Log](https://pixojo.com/wp-content/uploads/2014/07/coding_by_kimmax3110-d7qp4fx1.jpg)
+
 # Webnology
 
-This repository for Web Engineering Terminology:
+This repository for all Tecnical terminology that I am currently learning in the field of Software Engineering :
 
- I am going to include all the basic terms that I have come across everyday in Software Engineering field
+All of the important terms with their basic explanation will be added periodically to this wiki... Feel free to fork it and add create 
+
+your own version.
+
 
  Wiki Terms: https://github.com/nairuzabulhul/Webnology/wiki
 
 
 
-![Log](https://pixojo.com/wp-content/uploads/2014/07/coding_by_kimmax3110-d7qp4fx1.jpg)
+
 
 
