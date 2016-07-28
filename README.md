@@ -11,7 +11,7 @@ All of the important terms with their basic explanation will be added periodical
 your own version.
 
 
- Wiki Terms: https://github.com/nairuzabulhul/Webnology/wiki
+ Wiki Terms: https://github.com/nairuzabulhul/Technical-Terms/wiki
 
 
 
