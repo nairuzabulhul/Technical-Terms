@@ -4,7 +4,7 @@
 
 # Webnology
 
-This repository for all Tecnical terminology that I am currently learning in the field of Software Engineering :
+This repository for all Technical terminology that I am currently learning in the field of Software Engineering :
 
 All of the important terms with their basic explanation will be added periodically to this wiki... Feel free to fork it and add create 
 
